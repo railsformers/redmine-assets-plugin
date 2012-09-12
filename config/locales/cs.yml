@@ -5,3 +5,5 @@ cs:
   assets_project_heading:         Přílohy pro
   label_asset_plural:             Přílohy
   no_assets_added:                Žádné přílohy nebyly nalezeny
+  permission_view_asset:          Zobrazit přílohy
+  permission_edit_asset:          Upravovat přílohy
